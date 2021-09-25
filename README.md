@@ -15,7 +15,7 @@
 
 ```diff
 👤 >> French.
-🗣️ >> Discord → Bobbyyy#0666
+🗣️ >> Discord → Bobbyyy#5854
 🗣️ >> bobbyyydev@gmail.com
 🐺 >> Learn JS, HTML, CSS
 ```
