@@ -3,6 +3,7 @@
 
 <p align="center">
   <b>🖤 Follow me here:</b><br>
+  <a href="https://www.paypal.com/donate/?hosted_button_id=QC6EWJW5M3P28">Paypal</a> |
   <a href="https://www.youtube.com/channel/UCLvjUHI8c5uAZjd2Jv-AZ9Q">YouTube</a> |
   <a href="https://github.com/Bobbbyyyyy">Github</a>
   <br><br>
