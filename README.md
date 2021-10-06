@@ -56,7 +56,7 @@
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bobbbyyyyy&show_icons=true&theme=radical" alt="Bobbbyyyyy's stats" /> </p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobbbyyyyy&langs_count=10&border_color=#0D1117" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobbbyyyyy&langs_count=10&theme=radical" /></p>
 
 <p align="center">
     <b>README créé par : </b>
