@@ -9,7 +9,7 @@
   <br><br>
   <img src="https://cdn.discordapp.com/attachments/889959952020566067/889961031684730940/giphy.gif">
   <br><br>
-  <img src="https://discord.c99.nl/widget/theme-4/855824999436648469.png">
+  <img src="https://discord.c99.nl/widget/theme-1/855824999436648469.png">
 </p>
 
 -----
