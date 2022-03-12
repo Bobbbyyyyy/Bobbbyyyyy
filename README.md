@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/channel/UCLvjUHI8c5uAZjd2Jv-AZ9Q">YouTube</a> |
   <a href="https://github.com/Bobbbyyyyy">Github</a>
   <br><br>
-  <img src="https://cdn.discordapp.com/attachments/889959952020566067/889961031684730940/giphy.gif">
+  <img src="https://cdn.discordapp.com/attachments/884851431608291328/952313841109319790/LongClosedEnglishsetter-size_restricted.gif">
   <br><br>
   <img src="https://discord.c99.nl/widget/theme-1/855824999436648469.png">
 </p>
@@ -17,7 +17,6 @@
 ```diff 
 👤 >> French.
 🗣️ >> Discord → Bobbyyy#5854
-🗣️ >> bobbyyydev@gmail.com
 🐺 >> Learn JS, HTML, CSS
 ```
 
