@@ -2,10 +2,6 @@
 <h1 align="center">Bobbyyy</h1>
 
 <p align="center">
-  <b>🖤 Follow me here:</b><br>
-  <a href="https://www.paypal.com/donate/?hosted_button_id=QC6EWJW5M3P28">Paypal</a> |
-  <a href="https://www.youtube.com/channel/UCLvjUHI8c5uAZjd2Jv-AZ9Q">YouTube</a> |
-  <a href="https://github.com/Bobbbyyyyy">Github</a>
   <br><br>
   <img src="https://cdn.discordapp.com/attachments/884851431608291328/952313841109319790/LongClosedEnglishsetter-size_restricted.gif">
   <br><br>
@@ -58,8 +54,3 @@
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobbbyyyyy&langs_count=10&theme=radical" /></p>
 
-<p align="center">
-    <b>README créé par : </b>
-    <a href="https://github.com/Its-Vichy">Its-Vichy</a>  
-    <br></br>
-</p>
