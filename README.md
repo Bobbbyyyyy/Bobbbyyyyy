@@ -13,7 +13,7 @@
 ```diff 
 👤 >> French.
 🗣️ >> Discord → Bobbyyy#5854
-🐺 >> Learn JS, HTML, CSS
+🐺 >> Learn JS, HTML, CSS and Shell
 ```
 
 -----
