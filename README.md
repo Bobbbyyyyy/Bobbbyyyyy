@@ -8,7 +8,7 @@
 -----
 
 ```
-Bobbyyy Bash														 ⎯⠀❐⠀⤬
+Bobbyyy Bash													⎯⠀❐⠀⤬
 ```
 ```
 BOB@bobbyyy.net MINGW64 / 
