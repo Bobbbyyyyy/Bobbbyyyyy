@@ -1,56 +1,52 @@
 
 <h1 align="center">Bobbyyy</h1>
-
 <p align="center">
-  <br><br>
   <img src="https://cdn.discordapp.com/attachments/884851431608291328/952313841109319790/LongClosedEnglishsetter-size_restricted.gif">
-  <br><br>
-  <img src="https://discord.c99.nl/widget/theme-1/855824999436648469.png">
 </p>
+
 
 -----
 
-```diff 
-👤 >> French.
-🗣️ >> Discord → Bobbyyy#5854
-🐺 >> Learn JS, HTML, CSS and Shell
+```
+Bobbyyy Bash														    ⎯⠀❐⠀⤬
+```
+```
+BOB@bobbyyy.net MINGW64 / 
+$ bash bob
+
+
+╔╗ ╔═╗╔╗ ╔╗ ╦ ╦╦ ╦╦ ╦╦ ╦  [Author : Bobbyyy]
+╠╩╗║ ║╠╩╗╠╩╗╚╦╝╚╦╝╚╦╝╚╦╝  [Version : 1.1]
+╚═╝╚═╝╚═╝╚═╝ ╩  ╩  ╩  ╩	  [Website :  is.gd/bobbyyy]
+
+ Languages              Framework
+  [01] Javascript        [05] Discord.js
+  [02] HTML              [06] Node.js
+  [03] CSS
+  [04] Shell
+
+  [00] Exit
 ```
 
 -----
 
-<h1 align="center">LANGUAGE</h1>
-
-<p align="center"> 
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; 
+<h1 align="center">Shadow Murderer</h1>
+<p align="center">
+  <img src="https://c.tenor.com/nnL9_iloBGUAAAAC/uk-drill.gif">
 </p>
-
-<h1 align="center">FRAMEWORK</h1>
-
-<p align="center"> 
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp; 
-  <code><img height="25" src="https://koya.gg/assets/img/discordjs-logo.png"></code>&nbsp; 
-</p>
-
-<h1 align="center">LEARN</h1>
-
-<p align="center"> 
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp; 
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp; 
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png"></code>&nbsp; 
+<p align="center">
+<a  href="https://is.gd/shadowm"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 </p>
 
 -----
 
-<h1 align="center">STATS</h1>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Bobbbyyyyy?style=social">
-  <img src="https://img.shields.io/github/stars/Bobbbyyyyy?style=social">
-  <img src="https://komarev.com/ghpvc/?username=Bobbbyyyyy&color=green">
-</p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Bobbbyyyyy">
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bobbbyyyyy&show_icons=true&theme=radical" alt="Bobbbyyyyy's stats" /> </p>
+```
+BOB@bobbyyy.net MINGW64 /donations
+$ ls
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobbbyyyyy&langs_count=10&theme=radical" /></p>
-
+BTC: 0396f161a164a1cef16cf75d8783b8b6b9528cf64b23a986ab74fa62ffdd9b9fc0
+ETH: 0x6fe86a98A6dF77eC1E4eD2C6315CB724160453C1
+PAYPAL: https://is.gd/bobpal
+```
