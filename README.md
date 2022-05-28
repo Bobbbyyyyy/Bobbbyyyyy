@@ -35,7 +35,7 @@ $ bash bob
   <img src="https://c.tenor.com/nnL9_iloBGUAAAAC/uk-drill.gif">
 </p>
 <p align="center">
-<a  href="https://is.gd/shadowm"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+<a  href="https://discord.gg/XSB4Z8c9kZ"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 </p>
 
 -----
