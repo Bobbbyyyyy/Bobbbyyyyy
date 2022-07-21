@@ -30,7 +30,7 @@ $ bash bob
 
 -----
 
-<h1 align="center">Shadow Murderer</h1>
+<h1 align="center">Shadow Murderers</h1>
 <p align="center">
   <img src="https://c.tenor.com/nnL9_iloBGUAAAAC/uk-drill.gif">
 </p>
@@ -39,14 +39,3 @@ $ bash bob
 </p>
 
 -----
-
-
-
-```
-BOB@bobbyyy.net MINGW64 /donations
-$ ls
-
-BTC: 0396f161a164a1cef16cf75d8783b8b6b9528cf64b23a986ab74fa62ffdd9b9fc0
-ETH: 0x6fe86a98A6dF77eC1E4eD2C6315CB724160453C1
-PAYPAL: https://is.gd/bobpal
-```
