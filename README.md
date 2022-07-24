@@ -42,6 +42,8 @@ $ bash bob
 
 -----
 
-<img src="https://lanyard.cnrad.dev/api/855824999436648469" align="center"/>
+<p align="center">
+	<img src="https://lanyard.cnrad.dev/api/855824999436648469">
+</p>
 
 -----
