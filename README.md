@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/862653121201045508/1000612439613788170/standard_3.gif">
+  <img src="https://cdn.discordapp.com/attachments/862653121201045508/1000612439613788170/standard_3.gif" align="center">
 </p>
 
 
@@ -42,6 +42,6 @@ $ bash bob
 
 -----
 
-<img src="https://lanyard.cnrad.dev/api/855824999436648469" />
+<img src="https://lanyard.cnrad.dev/api/855824999436648469" align="center"/>
 
 -----
