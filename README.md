@@ -1,7 +1,5 @@
-
-<h1 align="center">Bobbyyy</h1>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/884851431608291328/952313841109319790/LongClosedEnglishsetter-size_restricted.gif">
+  <img src="https://cdn.discordapp.com/attachments/862653121201045508/1000612439613788170/standard_3.gif">
 </p>
 
 
@@ -26,6 +24,10 @@ $ bash bob
   [04] Shell
 
   [00] Exit
+  
+  
+  
+[?] >  _
 ```
 
 -----
@@ -37,5 +39,9 @@ $ bash bob
 <p align="center">
 <a  href="https://discord.gg/XSB4Z8c9kZ"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 </p>
+
+-----
+
+<img src="https://lanyard.cnrad.dev/api/855824999436648469" />
 
 -----
