@@ -44,4 +44,4 @@ $ bash bob
 
 -----
 
-<img alt="" src=https://komarev.com/ghpvc/?username=Bobbbyyyyy&style=for-the-badge />
+<img alt="" src="https://komarev.com/ghpvc/?username=Bobbbyyyyy&style=for-the-badge" />
