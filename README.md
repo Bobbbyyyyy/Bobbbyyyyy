@@ -36,10 +36,10 @@ $ bash bob
 
 <h1 align="center">Shadow Murderers</h1>
 <p align="center">
-  <img src="https://c.tenor.com/nnL9_iloBGUAAAAC/uk-drill.gif">
+  <img src="https://media4.giphy.com/media/hTreuwLIVRz0BUDaJq/giphy.gif?cid=ecf05e47sjqidslt5sfee3aqd8eg1jcrjwgxxr2793a8znd7&rid=giphy.gif&ct=g">
 </p>
 <p align="center">
-<a  href="https://discord.gg/XSB4Z8c9kZ"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+<a  href="https://discord.gg/kAMdvTPQmm"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 </p>
 
 -----
