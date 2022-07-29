@@ -1,7 +1,7 @@
 -----
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/862653121201045508/1000612439613788170/standard_3.gif">
+<p href="https://discord.gg/kAMdvTPQmm" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/1000782375854289026/>
 </p>
 
 
@@ -44,8 +44,3 @@ $ bash bob
 
 -----
 
-<p align="center">
-	
-</p>
-
------
