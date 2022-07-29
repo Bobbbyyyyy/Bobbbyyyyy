@@ -17,7 +17,7 @@ $ bash bob
 
 ╔╗ ╔═╗╔╗ ╔╗ ╦ ╦╦ ╦╦ ╦╦ ╦  [Author : Bobbyyy]
 ╠╩╗║ ║╠╩╗╠╩╗╚╦╝╚╦╝╚╦╝╚╦╝  [Version : 1.1]
-╚═╝╚═╝╚═╝╚═╝ ╩  ╩  ╩  ╩	  [Website :  is.gd/bobbyyy]
+╚═╝╚═╝╚═╝╚═╝ ╩  ╩  ╩  ╩	  [Website :  vu.fr/bobbyyy]
 
  Languages              Framework
   [01] Javascript        [05] Discord.js
