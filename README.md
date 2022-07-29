@@ -45,7 +45,7 @@ $ bash bob
 -----
 
 <p align="center">
-	[![Discord](https://lanyard.cnrad.dev/api/1000782375854289026)](https://discord.com/users/1000782375854289026)
+	
 </p>
 
 -----
