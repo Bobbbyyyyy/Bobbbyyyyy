@@ -20,10 +20,11 @@ $ bash bob
 ╚═╝╚═╝╚═╝╚═╝ ╩  ╩  ╩  ╩	  [Website :  vu.fr/bobbyyy]
 
  Languages              Framework
-  [01] Javascript        [05] Discord.js
-  [02] HTML              [06] Node.js
+  [01] Javascript        [06] Discord.js
+  [02] HTML              [07] Node.js
   [03] CSS
   [04] Shell
+  [05] Python
 
   [00] Exit
   
