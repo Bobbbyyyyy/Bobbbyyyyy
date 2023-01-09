@@ -35,16 +35,6 @@ $ bash bob
 
 -----
 
-<h1 align="center">Shadow Murderers</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/hTreuwLIVRz0BUDaJq/giphy-downsized-large.gif">
-</p>
-<p align="center">
-<a  href="https://discord.gg/kAMdvTPQmm"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
-</p>
-
------
-
 <p align="center">
 <img alt="" src="https://komarev.com/ghpvc/?username=Bobbbyyyyy&style=for-the-badge" />
 </p>
