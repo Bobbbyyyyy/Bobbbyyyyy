@@ -20,7 +20,7 @@
   - <h5> Currently Learning </h5>
     <img src = "https://img.shields.io/badge/PHP-%23563D7C.svg?style=for-the-badge&logo=php&logoColor=white" alt = "php" />
     <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
-    <img src = "https://img.shields.io/badge/lua-%1572B6.svg?style=for-the-badge&logo=lua&logoColor=white" alt = "lua" />
+    <img src = "https://img.shields.io/badge/lua-1572B6.svg?style=for-the-badge&logo=lua&logoColor=white" alt = "lua" />
   
 - <h4> Frameworks & Libraries </h4>
   <img src = "https://img.shields.io/badge/discord.js-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=%2361DAFB" alt = "react-native" />
