@@ -6,7 +6,8 @@
 
 <h2> About Me</h2>
   
-- ⭐ Currently working on **Heat Roleplay**
+- ⭐ Working on **𝙎𝙩𝙤𝙧𝙢 𝙀𝙢𝙥𝙞𝙧𝙚**
+- 🧪 Currently working on **Heat Roleplay**
 - 💀 Mostly working on **Revenge Multi Tool**
   
 <h2> Current Skills</h2>
