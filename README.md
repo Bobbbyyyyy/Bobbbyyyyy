@@ -6,9 +6,9 @@
 
 <h2> About Me</h2>
   
-- ⭐ Working on **𝙎𝙩𝙤𝙧𝙢 𝙀𝙢𝙥𝙞𝙧𝙚**
-- 🧪 Currently working on **Heat Roleplay**
-- 💀 Mostly working on **Revenge Multi Tool**
+- ⭐ Currently creating **𝙎𝙩𝙤𝙧𝙢 𝙀𝙢𝙥𝙞𝙧𝙚**
+- 🧪 Currently working for **Heat Roleplay**
+- 💀 **Revenge Multi Tool** soon
   
 <h2> Current Skills</h2>
   
