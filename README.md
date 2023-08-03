@@ -6,8 +6,7 @@
 
 <h2> About Me</h2>
   
-- ⭐ Currently creating **𝙎𝙩𝙤𝙧𝙢 𝙀𝙢𝙥𝙞𝙧𝙚**
-- 🧪 Currently working for **Heat Roleplay**
+- ⭐ Currently working for **𝙎𝙩𝙤𝙧𝙢 𝙀𝙢𝙥𝙞𝙧𝙚**
 - 💀 **Storm Panel** soon
   
 <h2> Current Skills</h2>
