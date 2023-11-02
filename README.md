@@ -7,7 +7,8 @@
 <h2> About Me</h2>
   
 - ⭐ Currently working for **𝙎𝙩𝙤𝙧𝙢 𝙀𝙢𝙥𝙞𝙧𝙚**
-- 💀 **Storm Panel** soon
+- 💀 **Storm Panel** soon (multi tool)
+- ✨ **bAdmin** soon (FiveM admin menu)
   
 <h2> Current Skills</h2>
   
