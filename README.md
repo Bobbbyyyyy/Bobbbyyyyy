@@ -6,9 +6,9 @@
 
 <h2> About Me</h2>
   
-- ⭐ Currently working for **𝙎𝙩𝙤𝙧𝙢 𝙀𝙢𝙥𝙞𝙧𝙚**
-- 💀 **Storm Panel** soon (multi tool)
-- ✨ **bAdmin** soon (FiveM admin menu)
+- 🌟 Currently working for **Heat Roleplay**
+- ⭐ **BBL** soon (guns.lol replica)
+- ✨ **bAdmin** soon
   
 <h2> Current Skills</h2>
   
