@@ -2,13 +2,13 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/736x/74/a5/07/74a5077ffb1b54963516a2d5254d3f23.jpg"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/nwzdwI6.png"/>
 
 <h2> About Me</h2>
-  
+
+- ⭐ Random developer doing random things
 - 🌟 Currently working for **Heat Roleplay**
-- ⭐ **BBL** soon (guns.lol replica)
-- ✨ **bAdmin** soon
+- ✨ Contact me on discord if you need anything: **bobbyyy.**
   
 <h2> Current Skills</h2>
   
@@ -19,12 +19,13 @@
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
   
   - <h5> Currently Learning </h5>
-    <img src = "https://img.shields.io/badge/PHP-%23563D7C.svg?style=for-the-badge&logo=php&logoColor=white" alt = "php" />
-    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
     <img src = "https://img.shields.io/badge/lua-1572B6.svg?style=for-the-badge&logo=lua&logoColor=white" alt = "lua" />
   
 - <h4> Frameworks & Libraries </h4>
-  <img src = "https://img.shields.io/badge/discord.js-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=%2361DAFB" alt = "react-native" />
+  <img src = "https://img.shields.io/badge/flask-%2320232a.svg?style=for-the-badge&logo=flask&logoColor=%1261DBFB" alt = "flask" />
+  <img src = "https://img.shields.io/badge/discord.py-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=%2361DAFB" alt = "discord.py" />
+  <img src = "https://img.shields.io/badge/discord.js-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=%2361DAFB" alt = "discord.js" />
+
   
   </br></br>
   
