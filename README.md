@@ -7,7 +7,7 @@
 <h2> About Me</h2>
 
 - ⭐ Random developer doing random things
-- 🌟 Currently working for **Heat Roleplay**
+- 🌟 Currently working for **Rize Clothing**
 - ✨ Contact me on discord if you need anything: **bobbyyy.**
   
 <h2> Current Skills</h2>
